@@ -1,3 +1,3 @@
 # CSE_110_ASSIGNMENT_SOLUTION
 
-Solutions for java
+Solutions for java and python
